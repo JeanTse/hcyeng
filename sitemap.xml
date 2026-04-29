@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huachenyu.news/about/</loc>
+    
+    <lastmod>2026-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/arttoy/</loc>
+    
+    <lastmod>2026-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://huachenyu.news/liveevent2026/</loc>
     
     <lastmod>2026-04-29</lastmod>
@@ -194,15 +212,6 @@
     <loc>https://huachenyu.news/ssbxtw/</loc>
     
     <lastmod>2026-01-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://huachenyu.news/about/</loc>
-    
-    <lastmod>2026-01-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2549,6 +2558,13 @@
   
   <url>
     <loc>https://huachenyu.news/tags/springfolksong/</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huachenyu.news/tags/Marsper/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
